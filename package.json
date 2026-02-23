@@ -1,6 +1,6 @@
 {
   "name": "onequeue",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Background jobs in one line",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
